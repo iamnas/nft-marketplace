@@ -1,0 +1,41 @@
+{
+  "5": {
+    "NETWORK_NAME": "Goerli",
+    "CHAIN_NAME": "Ethereum",
+    "CURRENCY_SYMBOL": "ETH",
+    "NFT_MARKETPLACE_ADDRESS": "0x8be89ad595e0b2f0e7eb34a0c74dbf0b28ce6fa3",
+    "IS_MAIN_NET": false,
+    "LOGO_URL": "https://styles.redditmedia.com/t5_2zf9m/styles/communityIcon_hebckbd64w811.png",
+    "CHAIN_ID": "5",
+    "CHAIN_HEX_ID": "0X5",
+    "BLOCK_EXPLORER_URL": "https://goerli.etherscan.io/",
+    "RPC_PROVIDER_URL": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "WETH_ADDRESS": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6"
+  },
+  "80001": {
+    "NETWORK_NAME": "Mumbai",
+    "CHAIN_NAME": "Polygon",
+    "CURRENCY_SYMBOL": "MATIC",
+    "NFT_MARKETPLACE_ADDRESS": "0x5ef5cab51e978b7aed66fd8f5b27bb24db204df4",
+    "IS_MAIN_NET": false,
+    "LOGO_URL": "https://brandlogovector.com/wp-content/uploads/2021/12/Polygon-Crypto-Icon-Logo-Small.png",
+    "CHAIN_ID": "80001",
+    "CHAIN_HEX_ID": "0x13881",
+    "BLOCK_EXPLORER_URL": "https://mumbai.polygonscan.com",
+    "RPC_PROVIDER_URL": "https://matic-mumbai.chainstacklabs.com",
+    "WETH_ADDRESS": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6"
+  },
+  "11155111": {
+    "NETWORK_NAME": "Sepolia",
+    "CHAIN_NAME": "Ethereum",
+    "CURRENCY_SYMBOL": "ETH",
+    "NFT_MARKETPLACE_ADDRESS": "0xa12159c1e942aFA5e56567dc3EEeb0f7552B7bbC",
+    "IS_MAIN_NET": false,
+    "LOGO_URL": "https://styles.redditmedia.com/t5_2zf9m/styles/communityIcon_hebckbd64w811.png",
+    "CHAIN_ID": "11155111",
+    "CHAIN_HEX_ID": "0xaa36a7",
+    "BLOCK_EXPLORER_URL": "https://sepolia.etherscan.io/",
+    "RPC_PROVIDER_URL": "https://ethereum-sepolia.blockpi.network/v1/rpc/public",
+    "WETH_ADDRESS": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9"
+  }
+}
